@@ -1,7 +1,10 @@
 ### Do you want to hire me?
 #### See what I'm working on now:
 
-:green_book: What is read: **Clean code. Robert C. Martin.**
+What I'm doing: some theoretical topics about Java
+What's next: Second iteration of my [Dinosauruski_app](https://github.com/Elton-John/Dinosauruski_app) project. Things to change: Spring Boot, DTO reorganizing, TDD, Clean Code.
+
+:green_book: My current read: **Clean code. Robert C. Martin.**
 
 ______________________________________________
 
