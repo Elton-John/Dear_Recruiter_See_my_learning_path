@@ -42,6 +42,8 @@ ______________________________________________
 :anchor: **01.03.2020 - 06.12.2020**
 **Java Web Developer** - Bootcamp in Coders Lab IT School
 
+This is a program:
+
 PREWORK
 
 Introduction to the issues covered by the course program
@@ -90,10 +92,24 @@ chosen voluntarily from among those met at the course
 SCRUM LAB program | 30 hours of classes
 Weekly group workshop simulating the programmer's daily work with preparation
 for activities in the Scrum methodology.
-MODULE 4 | 40 hours of classes
 
 1. Knowledge of Scrum and Agile agile methodologies
 2. Ability to work as a team using Git and GitFlow
+
+This bootcamp contains a lot of practice. We worked in forks of private reposotories, but here you can see my revision in my own repo:
+
++ Link to the repository: [Java_learning](https://github.com/Elton-John/Java_learning/tree/master/src/main/java) 
++ Link to the repository: [Java_EE_learning](https://github.com/Elton-John/Java_EE_learning) 
++ Link to the repository: [SQL_learning](https://github.com/Elton-John/SQL_learning/tree/master/src/main/java/pl/coderslab) 
++ Link to the repository: [Javascript_learning](https://github.com/Elton-John/JavaScript_learning/tree/master/src/main/webapp) 
++ Link to the repository: [Spring_learning](https://github.com/Elton-John/Simple_CMS_Spring_learning/tree/main/src/main/java/app) 
++ Link to the repository: [Hibernate_learning](https://github.com/Elton-John/Hibernate_learning/tree/main/src/main/java/com/example) 
+
+
+This is a diplom:
+
+<img src="https://github.com/Elton-John/Dear_Recruiter_See_my_learning_path/blob/main/dyplom_olga_kryukova.jpg" alt="drawing" width="300"/>
+
 ______________________________________________
 :anchor: **01.2020 - 02.2020**
 **HTML and CSS** 
