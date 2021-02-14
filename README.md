@@ -2,7 +2,7 @@
 #### See what I'm working on now:
 
 
-What I'm doing: Second iteration of my [Dinosauruski_app](https://github.com/Elton-John/Dinosauruski_app) project. Things to change: Spring Boot, DTO reorganizing, TDD, Clean Code.
+Second iteration of my [Dinosauruski_app](https://github.com/Elton-John/Dinosauruski_app) project. Things I'm changing: Spring Boot, DTO reorganizing, TDD, Clean Code.
 
 Link to the repository: [Dinosauruski_app_v.2.0](https://github.com/Elton-John/Dinosauruski_app_v.2.0)
 
