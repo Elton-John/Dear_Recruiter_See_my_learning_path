@@ -1,6 +1,6 @@
-### Do you want to hire me?
-#### See what I'm working on now:
 
+#### See what I'm working on now:
+Revision of problem solving.
 
 Second iteration of my [Dinosauruski_app](https://github.com/Elton-John/Dinosauruski_app) project. Things I'm changing: Spring Boot, DTO reorganizing, TDD, Clean Code.
 
